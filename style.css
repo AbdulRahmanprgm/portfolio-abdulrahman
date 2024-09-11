@@ -5,6 +5,7 @@
 body{
     background-color: black;
     color: white;
+    width:1280px;
 }
 .logo{
     position: relative;
